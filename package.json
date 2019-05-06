@@ -1,0 +1,62 @@
+{
+  "_from": "smart-table",
+  "_id": "smart-table",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/ng2-smart-table",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "ng2-smart-table",
+    "name": "ng2-smart-table",
+    "escapedName": "ng2-smart-table",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "",
+  "_shasum": "f9aa6b7ae1d42b1607fa7d5fb9ad9beca1316766",
+  "_spec": "ng2-smart-table",
+  "_where": "C:\\Users\\VINICIUS\\Desktop\\Supero-front\\superofront",
+  "author": {
+    "name": "akveo"
+  },
+  "bugs": {
+    "url": "https://github.com/viniandrioli/smart-table-example-modified"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "lodash": "^4.17.10"
+  },
+  "deprecated": false,
+  "description": "Angular Smart Table",
+  "homepage": "https://github.com/viniandrioli/smart-table-example-modified",
+  "keywords": [
+    "angular",
+    "typescript",
+    "table",
+    "akveo"
+  ],
+  "license": "MIT",
+  "main": "./bundles/table.umd.js",
+  "module": "./index.js",
+  "name": "ng2-smart-table",
+  "peerDependencies": {
+    "ng2-completer": "^2.0.8",
+    "@angular/common": "^6.0.1",
+    "@angular/core": "^6.0.1",
+    "@angular/forms": "^6.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+http://github.com/viniandrioli/smart-table-example-modified"
+  },
+  "scripts": {},
+  "typings": "./index.d.ts",
+  "version": "1.0.0"
+}
